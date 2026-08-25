@@ -1,0 +1,70 @@
+{
+  "case1b_models.npz": {
+    "sha256": "b919da972b2dc52041b12ee7912d899c096fd8b4f7b2b25de96ab0c875d41592",
+    "bytes": 1066
+  },
+  "case1b_state_space_identification_rerun.csv": {
+    "sha256": "fb9174191cee976e87851906193797657685e3d892d1bce4e1a392efde0fbdab",
+    "bytes": 1440
+  },
+  "case1c_noise_floor_metrics.csv": {
+    "sha256": "697984b17d9abf05fa160beb3eb48a752942bb9d65fe1e2f6982f1ffbf550a4e",
+    "bytes": 855
+  },
+  "case1c_window_sensitivity.csv": {
+    "sha256": "49586df70bd96447e1e63ca2c3465c3b0fe1ce9770fa038bdac28b8a56bcbfa8",
+    "bytes": 1363
+  },
+  "case1e_finite_zero_comparison.csv": {
+    "sha256": "c30ff836417caf4950b31f1514cfe31c8a523534950bfa1e403f8b270eb1d1a6",
+    "bytes": 7530
+  },
+  "case1e_finite_zero_fits.csv": {
+    "sha256": "28141c3640862158f558864ec74fbfa6933733d087f9f0ae507b465b0527321f",
+    "bytes": 3142
+  },
+  "case1e_finite_zero_summary.json": {
+    "sha256": "26e90c94c970803da5ab562f87e1f7804a0b37deb8b514d9a8497e9641a8d4af",
+    "bytes": 961
+  },
+  "case1f_lopo_models.npz": {
+    "sha256": "ff5cad712d7491ff054f62a68b25ca1a22d94d9aceac9e9f93aa95237ee47dd0",
+    "bytes": 1084
+  },
+  "case1f_lopo_predictions.csv": {
+    "sha256": "8d7a18711a97b32dc9d9bf5839ca53c225fd28b1f539035019ac5b2efb4f3c3a",
+    "bytes": 1381
+  },
+  "case1g_exact_transfer_functions.json": {
+    "sha256": "a58282a58326485dcb1ee704bae86ca0cef1a04937738ccea9214216272e10ad",
+    "bytes": 1495
+  },
+  "case1g_known_linearisation_recovery.csv": {
+    "sha256": "83a38da9380f8b84e3afbe22baf6c7c3ce006ae1d5fcc49e94c8d8c1835e36fe",
+    "bytes": 1279
+  },
+  "case2a_structural_sweep_corrected.csv": {
+    "sha256": "e3c7c79540a0b2cadb424b94d768f51129dba3f4ab5de32deab2c44358ec3477",
+    "bytes": 4701
+  },
+  "case2a_summary_corrected.json": {
+    "sha256": "4fe2f8150f83dd83026ab4335d29981f7957a1276509a1615aa87b2c85b5993f",
+    "bytes": 898
+  },
+  "case3c_frf_metrics.csv": {
+    "sha256": "2aeb2846021ea91784b7aff99d3bba8c388a451ba89797b310d33eb43e62f0c6",
+    "bytes": 3800
+  },
+  "case3d_best_fit_exact.csv": {
+    "sha256": "e59fbb4f22bcbc7b2438f3c3469a34903aae50ef4ea4b4a2f39ffc75629edc82",
+    "bytes": 480
+  },
+  "case3d_best_fit_lopo.csv": {
+    "sha256": "111b105347ad5924a9f994c88dca14eab904759d1bcd6602dac3d671aa94aaf7",
+    "bytes": 1802
+  },
+  "case3d_summary.json": {
+    "sha256": "95bbb4507ca125bab8eb0044087d56e7dc8adb9eb8a2cf51ef735794c1cf78d3",
+    "bytes": 1085
+  }
+}
