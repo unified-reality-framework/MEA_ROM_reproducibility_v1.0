@@ -1,0 +1,41 @@
+{
+  "protocol": {
+    "Omega_min": 0.05,
+    "Omega_max": 2.5,
+    "N_Omega": 1001,
+    "zeta_m_bounds": [
+      0.001,
+      2.0
+    ],
+    "objective": "relative complex FRF error",
+    "normalisation": "signed DC/static gain; own pole-derived omega_n; no peak/residue/phase correction"
+  },
+  "exact": {
+    "theta": {
+      "zeta_star": 0.7689270659505549,
+      "complex_relative_at_0.78": 0.5188517486936157,
+      "complex_relative_at_star": 0.5187702750109665
+    },
+    "r": {
+      "zeta_star": 0.7183985321920497,
+      "complex_relative_at_0.78": 0.8658803612859295,
+      "complex_relative_at_star": 0.8652791148422248
+    }
+  },
+  "LOPO_summary": [
+    {
+      "output": "r",
+      "zeta_star_mean": 0.721924048748407,
+      "zeta_star_sd": 0.0029978413211254325,
+      "med_min_complex": 0.8741090085479051,
+      "med_phase_deg": 67.22278121561148
+    },
+    {
+      "output": "theta",
+      "zeta_star_mean": 0.77434574664391,
+      "zeta_star_sd": 0.004639383788901282,
+      "med_min_complex": 0.5556757968404935,
+      "med_phase_deg": 46.30014330754044
+    }
+  ]
+}

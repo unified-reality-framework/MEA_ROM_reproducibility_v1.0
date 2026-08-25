@@ -1,0 +1,29 @@
+{
+  "theta": {
+    "median_heldout_improvement_vs_G1": 0.10020009325078294,
+    "median_delta_AICc_vs_G1": 1676.197347760446,
+    "CV_wn": 0.19583205564783263,
+    "CV_zeta": 0.044644338193066284,
+    "median_abs_zero_over_wn": 1.3442171849190165,
+    "all_gains_expected_sign": true,
+    "all_zeros_left_half_plane": true,
+    "accepted_prespecified_criteria": false
+  },
+  "r": {
+    "median_heldout_improvement_vs_G1": 0.2917229180535057,
+    "median_delta_AICc_vs_G1": 3629.2197967998945,
+    "CV_wn": 0.12107385852959576,
+    "CV_zeta": 0.13229055378081928,
+    "median_abs_zero_over_wn": 0.4769477598632167,
+    "all_gains_expected_sign": true,
+    "all_zeros_left_half_plane": true,
+    "accepted_prespecified_criteria": true
+  },
+  "criteria": {
+    "min_heldout_improvement_vs_G1": 0.15,
+    "min_delta_AICc": 10.0,
+    "max_CV_wn": 0.15,
+    "max_CV_zeta": 0.2,
+    "note": "gain/zero sign symmetry retained as diagnostic; all 12 fits converged"
+  }
+}
