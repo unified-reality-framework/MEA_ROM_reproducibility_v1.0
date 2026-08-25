@@ -1,0 +1,45 @@
+cff-version: 1.2.0
+message: "If you use these reproducibility materials, please cite this archive using these metadata."
+
+title: "Reproducibility Data and Code for Reduced-Order Modelling of Magnetically Coupled Engineering Systems"
+
+type: dataset
+
+authors:
+  - family-names: "Markov"
+    given-names: "Paul D."
+
+abstract: >-
+  Numerical data, Python notebooks, machine-readable evidence, supplementary
+  audit records, and publication-figure materials supporting the manuscript
+  "Reduced-Order Modelling of Magnetically Coupled Engineering Systems".
+  The archive contains scalar and coupled plasma-surrogate identification
+  results, leave-one-perturbation-out verification, nominal tangent-linearisation
+  recovery, Savitzky-Golay preprocessing sensitivity, corrected
+  Euler-Bernoulli structural benchmark results, canonical cross-domain
+  comparisons, complete input-output frequency-response metrics, and
+  best-achievable structural damping analyses. The plasma component is a
+  controlled stochastic numerical surrogate and does not constitute
+  experimental or high-fidelity physical plasma validation.
+
+version: "1.0.0"
+
+date-released: "2026-08-25"
+
+repository-code: "https://github.com/unified-reality-framework/MEA_ROM_reproducibility_v1.0"
+
+url: "https://github.com/unified-reality-framework/MEA_ROM_reproducibility_v1.0"
+
+license: GPL-3.0-only
+
+keywords:
+  - reduced-order modelling
+  - state-space identification
+  - modal analysis
+  - plasma dynamics
+  - structural dynamics
+  - transfer functions
+  - frequency-response analysis
+  - reproducibility
+  - leave-one-perturbation-out verification
+  - Savitzky-Golay sensitivity
